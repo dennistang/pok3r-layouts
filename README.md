@@ -8,6 +8,7 @@ The following layers are used in either OS:
 
 ## General POK3R programming info
 * [POK3R User Manual](files/POK3R.User.Manual.V1.5.2.pdf); Vortex keeps shifting their URLs, so local copy (thanks @couto, @josephfusco)
+* Current POK3R version is: [1.17](http://vortexgear.tw/db/upload/webdata4/6vortex_2016522355271164.exe), which includes shortcuts for media control, e.g., prev/next/pause/play, and volume controls.
 * Factory reset: Hold both the left and right `ALT` keys
 * Reset selected layer only: `FN + R` until LED under spacebar stops flashing
 
