@@ -58,9 +58,9 @@ Windows Layout on [keyboard-layout-editor.com](http://www.keyboard-layout-editor
   * PgUp: `FN + B` then: `FN + U` then: `PN`
 * Home: `FN + I` then: `FN + H` then: `PN`
 * Volume controls:
-  * Mute: `FN + X` then: `FN + /?` then: `PN`
-  * Vol-: `FN + C` then: `FN + ,<` then: `PN`
-  * Vol+: `FN + V` then: `FN + .>` then: `PN`
+  * Vol-: `FN + A` then: `FN + S` then: `PN`
+  * Vol+: `FN + S` then: `FN + D` then: `PN`
+  * Mute: `FN + D` then: `FN + F` then: `PN`
 
 ## <a name="Move_FN"></a>Move FN to L_Ctrl
 HJKL as cursor keys are more ergonomical to reach by moving the FN to the left Ctrl key location:
