@@ -29,6 +29,11 @@ The following layers are used in either OS:
   * L_Option: `L_WIN` then: `L_Alt` then: `PN`
   * R_CMD: `R_Alt` then: `R_FN` (Win) then: `PN`
   * R_Option: `R_FN` (Win) then: `R_Alt` then: `PN`
+* Do it again for the `FN` combos (otherwise you get the default behavior for text selection shortcuts):
+  * L_Cmd: `FN + L_Alt` then: `FN + L_WIN` then: `PN`
+  * L_Option: `FN + L_WIN` then: `FN + L_Alt` then: `PN`
+  * R_CMD: `FN + R_Alt` then: `FN + R_FN` (Win) then: `PN`
+  * R_Option: `FN + R_FN` (Win) then: `FN + R_Alt` then: `PN`
 * `FN + R_Ctrl` to exit programming
 
 Resulting programming:
